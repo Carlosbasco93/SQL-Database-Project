@@ -13,8 +13,8 @@
 <img width="553" alt="image" src="https://user-images.githubusercontent.com/107916116/187133904-05101a12-80a1-412a-a125-df017d58d7d3.png">
 
 Top 5 películas con más actores mejor valoradas:
-<img width="748" alt="image" src="https://user-images.githubusercontent.com/107916116/187134660-03bdaaad-25f5-4785-a9e0-47c911e42abd.png">
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/107916116/187134660-03bdaaad-25f5-4785-a9e0-47c911e42abd.png">
 
 
 Número de películas por categoría:
-<img width="555" alt="image" src="https://user-images.githubusercontent.com/107916116/187134130-596f8a2f-1bac-4e09-8a4c-10f1796873ca.png">
+<img width="555" alt="image" src="https://user-images.githubusercontent.com/107916116/187134751-2148bc90-c783-44d0-8f3e-d46278d394f9.png">
